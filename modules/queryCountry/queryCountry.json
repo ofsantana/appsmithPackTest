@@ -12,6 +12,13 @@
             "id": "jbmyhelemu",
             "label": "country",
             "propertyName": "inputs.country"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "50",
+            "id": "sbnepjskim",
+            "label": "limitQry",
+            "propertyName": "inputs.limitQry"
           }
         ],
         "id": "kwsavmotfd",
