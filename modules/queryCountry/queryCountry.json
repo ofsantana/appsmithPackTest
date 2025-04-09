@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67f6830f6774836dcbe6f7a0_fa39a195-5951-43d1-9f20-71c32a64031f",
+  "moduleUUID": "bdde6be0-ab2d-4dcd-b242-0da5d345f12f",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "United States",
+            "id": "jbmyhelemu",
+            "label": "country",
+            "propertyName": "inputs.country"
+          }
+        ],
+        "id": "kwsavmotfd",
+        "sectionName": ""
+      }
+    ],
+    "name": "queryCountry"
+  }
+}
